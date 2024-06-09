@@ -1,4 +1,4 @@
-[![MasterHead](./Banner)]
+![MasterHead](./Banner.png)
 <h1 align="center">Hi 👋, I'm Santiago</h1>
 <h3 align="center">A software engineering student from Colombia</h3>
 
